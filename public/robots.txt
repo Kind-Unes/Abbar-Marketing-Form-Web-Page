@@ -1,0 +1,9 @@
+# Robots.txt for AraTech
+User-agent: *
+Allow: /
+
+# Disallow admin or private paths if any
+# Disallow: /admin/
+
+# Sitemap
+Sitemap: https://aratech.sa/sitemap.xml

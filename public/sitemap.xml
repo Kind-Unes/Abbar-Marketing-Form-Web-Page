@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://aratech.sa/</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://aratech.sa/ar/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aratech.sa/en/" />
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://aratech.sa/about</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://aratech.sa/ar/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aratech.sa/en/about" />
+  </url>
+  
+  <!-- Services Page -->
+  <url>
+    <loc>https://aratech.sa/services</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://aratech.sa/ar/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aratech.sa/en/services" />
+  </url>
+  
+  <!-- Service Detail Pages -->
+  <url>
+    <loc>https://aratech.sa/services/mobile</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aratech.sa/services/web</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aratech.sa/services/ai</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aratech.sa/services/design</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aratech.sa/services/ecommerce</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aratech.sa/services/erp</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Projects Page -->
+  <url>
+    <loc>https://aratech.sa/projects</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://aratech.sa/ar/projects" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aratech.sa/en/projects" />
+  </url>
+  
+  <!-- Team Page -->
+  <url>
+    <loc>https://aratech.sa/team</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Jobs Page -->
+  <url>
+    <loc>https://aratech.sa/jobs</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://aratech.sa/contact</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://aratech.sa/ar/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://aratech.sa/en/contact" />
+  </url>
+  
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://aratech.sa/faq</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Privacy Page -->
+  <url>
+    <loc>https://aratech.sa/privacy</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Terms Page -->
+  <url>
+    <loc>https://aratech.sa/terms</loc>
+    <lastmod>2026-01-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

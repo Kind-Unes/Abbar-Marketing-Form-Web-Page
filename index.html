@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>أبار التقنية</title>
+
+    <!-- Primary meta tags -->
+    <meta
+      name="description"
+      content="Abbar Form — simple, secure form handling and lead collection for websites."
+    />
+    <meta
+      name="keywords"
+      content="Abbar Form, forms, lead capture, form submission, marketing form"
+    />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="https://abbar-form.web.app/" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="AraTech | أراتك" />
+    <meta
+      property="og:description"
+      content="AraTech — أراتك: leading software agency in Saudi Arabia providing mobile apps, web development, AI solutions, and e-commerce."
+    />
+    <meta
+      property="og:image"
+      content="https://kind-unes.github.io/abbartec-marketing-landingpage/assets/images/og-image.jpg"
+    />
+    <meta
+      property="og:url"
+      content="https://kind-unes.github.io/abbartec-marketing-landingpage/"
+    />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AraTech | أراتك" />
+    <meta
+      name="twitter:description"
+      content="AraTech — أراتك: leading software agency in Saudi Arabia providing mobile apps, web development, AI solutions, and e-commerce."
+    />
+    <meta
+      name="twitter:image"
+      content="https://kind-unes.github.io/abbartec-marketing-landingpage/assets/images/og-image.jpg"
+    />
+
+    <!-- Hreflang / Alternate localizations -->
+    <link
+      rel="alternate"
+      href="https://kind-unes.github.io/abbartec-marketing-landingpage/"
+      hreflang="x-default"
+    />
+    <link
+      rel="alternate"
+      href="https://kind-unes.github.io/abbartec-marketing-landingpage/en/"
+      hreflang="en"
+    />
+    <link
+      rel="alternate"
+      href="https://kind-unes.github.io/abbartec-marketing-landingpage/ar/"
+      hreflang="ar"
+    />
+
+    <!-- Theme color -->
+    <meta name="theme-color" content="#41B654" />
+
+    <!-- SPA routing support for GitHub Pages -->
+    <script>
+      // Check if we were redirected from 404.html
+      (function () {
+        var redirect = sessionStorage.getItem("redirect");
+        sessionStorage.removeItem("redirect");
+        if (redirect && redirect !== location.pathname) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Kufi+Arabic:wght@100..900&family=Noto+Naskh+Arabic:wght@400..700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Structured data: Organization -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Abbar Form",
+        "url": "https://abbar-form.web.app",
+        "logo": "https://kind-unes.github.io/abbartec-marketing-landingpage/assets/images/logo.png",
+        "description": "Abbar Form — simple, secure form handling and lead collection for websites.",
+        "sameAs": [
+          "https://github.com/Kind-Unes/abbartec-marketing-landingpage"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- Global CSS -->
+    <style>
+      /* Apply global font-family */
+      body {
+        font-family:
+          "Tajawal", "Amiri", "Noto Kufi Arabic", "Noto Naskh Arabic",
+          "Source Code Pro", sans-serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+    </style>
+
+    <!-- React Entry Point -->
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
