@@ -34,7 +34,6 @@ const translations = {
     },
     form: {
       title: "سجّل الآن",
-      subtitle: "ساهم بحفر بئر باسمك أو باسم من تحب",
       name: "الاسم الكامل",
       namePlaceholder: "أدخل اسمك الكامل",
       phone: "رقم الجوال",

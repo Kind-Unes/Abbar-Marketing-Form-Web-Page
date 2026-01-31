@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Kind-Unes/abbartec-marketing-landingpage.git",
+  "homepage": "https://Kind-Unes.github.io/abbartec-marketing-landingpage/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
